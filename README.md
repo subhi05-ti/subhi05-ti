@@ -48,7 +48,7 @@
 
 **Databases & Tools**
 <br>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,docker,vscode,postman" />
 
 </div>
 
@@ -71,32 +71,120 @@
 
 <br>
 
+## 📄 Profile Summary
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhi05-ti&theme=github_dark" />
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhi05-ti&theme=github_dark" /></td>
+<td width="50%" align="center"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhi05-ti&theme=github_dark" /></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhi05-ti&theme=github_dark" /></td>
+<td width="50%" align="center"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhi05-ti&theme=github_dark&utcOffset=5.5" /></td>
+</tr>
+</table>
+
+> ⏱️ These cards pull live from your GitHub account (subhi05-ti) — they'll update automatically as you commit more.
+
+<br>
+
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🚑 **RescueMind AI** | Offline-first disaster response PWA for use during network outages | React · Vite · Tailwind · Leaflet · Chart.js |
-| 🩺 **IMARS** | Incident response management system — cut response time by 30–40% | React · Django · Firebase |
-| 🌾 **Smart Fertilizer & Pest Detection** | 90% pest detection accuracy, 93% fertilizer prediction accuracy | Flask · YOLOv9 · OpenCV |
-| 💧 **HYDROBLOOM** | Rainwater harvesting feasibility platform with AI rooftop analysis | React · Vite · Supabase · Claude Vision API · ERA5 |
-| 🧠 **ANN_using_keras** | Artificial neural network fundamentals, built from scratch concepts | Python · Keras · TensorFlow |
-| ❤️ **Heart Disease Prediction** | ML classification model for cardiac risk prediction | Python · Scikit-learn · Jupyter |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-> 🔗 Replace project names above with links to your actual repos, e.g. `[RescueMind AI](https://github.com/subhi05-ti/rescuemind-ai)`
+### 🚨 IMARS
+
+Incident response management system built to streamline emergency coordination — cut response time by 30–40% through real-time incident tracking and a centralized dashboard.
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-30363d?style=flat-square) ![Django](https://img.shields.io/badge/Django-30363d?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-30363d?style=flat-square)
+
+[![Source Code](https://img.shields.io/badge/-SOURCE%20CODE-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subhi05-ti/IMARS)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌾 AI-Based Fertilizer & Soil Recommendation System
+
+Intelligent system that analyzes soil and crop data to recommend suitable fertilizers, achieving 90% pest detection accuracy and 93% fertilizer prediction accuracy.
+
+**Tech Stack**
+
+![Flask](https://img.shields.io/badge/Flask-30363d?style=flat-square) ![YOLOv9](https://img.shields.io/badge/YOLOv9-30363d?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-30363d?style=flat-square)
+
+[![Source Code](https://img.shields.io/badge/-SOURCE%20CODE-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subhi05-ti/fertilizer-soil-recommendation)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💧 HYDROBLOOM
+
+Rainwater harvesting feasibility platform with AI-powered rooftop photo analysis, real rainfall history, and GPS-based location capture.
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-30363d?style=flat-square) ![Vite](https://img.shields.io/badge/Vite-30363d?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-30363d?style=flat-square)
+
+[![Source Code](https://img.shields.io/badge/-SOURCE%20CODE-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subhi05-ti/hydrobloom)
+
+</td>
+<td width="50%" valign="top">
+
+### 🩸 Blood Donation System
+
+MVC-based web application connecting blood donors with recipients, managing donation records and requests through a simple interface.
+
+**Tech Stack**
+
+![Java](https://img.shields.io/badge/Java-30363d?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-30363d?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-30363d?style=flat-square)
+
+[![Source Code](https://img.shields.io/badge/-SOURCE%20CODE-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subhi05-ti/blood-donation-system)
+
+</td>
+</tr>
+</table>
+
+> 🔗 Point each SOURCE CODE badge at your actual repo URL once you've pushed these.
 
 <br>
 
 ## 📈 Skill Progress
 
-| Technology | Proficiency |
-|---|---|
-| Python | ████████░░ 85% |
-| Deep Learning (TensorFlow / Keras) | ███████░░░ 75% |
-| Computer Vision (OpenCV / YOLO) | ███████░░░ 75% |
-| Django / Flask | ███████░░░ 70% |
-| React.js | ██████░░░░ 65% |
-| SQL / Databases | ██████░░░░ 65% |
-| LLM Tooling (LangChain, RAG) | ██████░░░░ 60% |
+<table>
+<tr>
+<td><img src="https://progress-bar.dev/85/?title=Python&width=220&color=6c63ff" /></td>
+<td><img src="https://progress-bar.dev/70/?title=C%2B%2B&width=220&color=00599c" /></td>
+</tr>
+<tr>
+<td><img src="https://progress-bar.dev/65/?title=Java&width=220&color=e76f00" /></td>
+<td><img src="https://progress-bar.dev/60/?title=C&width=220&color=5c6bc0" /></td>
+</tr>
+<tr>
+<td><img src="https://progress-bar.dev/70/?title=DSA&width=220&color=f7931e" /></td>
+<td><img src="https://progress-bar.dev/75/?title=Deep+Learning&width=220&color=ff6f00" /></td>
+</tr>
+<tr>
+<td><img src="https://progress-bar.dev/75/?title=Computer+Vision&width=220&color=5c3ee8" /></td>
+<td><img src="https://progress-bar.dev/70/?title=Django+%2F+Flask&width=220&color=44b78b" /></td>
+</tr>
+<tr>
+<td><img src="https://progress-bar.dev/65/?title=React.js&width=220&color=61dafb" /></td>
+<td><img src="https://progress-bar.dev/55/?title=Docker&width=220&color=2496ed" /></td>
+</tr>
+<tr>
+<td><img src="https://progress-bar.dev/65/?title=SQL+%2F+Databases&width=220&color=4479a1" /></td>
+<td><img src="https://progress-bar.dev/60/?title=LLM+Tooling&width=220&color=1c3c3c" /></td>
+</tr>
+</table>
 
 > 📝 These are placeholder estimates — adjust the percentages to reflect your own honest self-assessment.
 
