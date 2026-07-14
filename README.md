@@ -159,24 +159,23 @@ MVC-based web application connecting blood donors with recipients, managing dona
 
 ## 📈 Skill Progress
 
-<div align="center">
+<table>
+<tr><th align="left">Technology</th><th align="left">Proficiency</th></tr>
+<tr><td><b>Python</b></td><td>🟦🟦🟦🟦🟦🟦🟦🟦🟦🟪 85%</td></tr>
+<tr><td><b>C++</b></td><td>🟦🟦🟦🟦🟦🟦🟦🟪🟪🟪 70%</td></tr>
+<tr><td><b>Java</b></td><td>🟦🟦🟦🟦🟦🟦🟦🟪🟪🟪 65%</td></tr>
+<tr><td><b>C</b></td><td>🟦🟦🟦🟦🟦🟦🟪🟪🟪🟪 60%</td></tr>
+<tr><td><b>DSA</b></td><td>🟦🟦🟦🟦🟦🟦🟦🟪🟪🟪 70%</td></tr>
+<tr><td><b>Deep Learning</b></td><td>🟦🟦🟦🟦🟦🟦🟦🟦🟪🟪 75%</td></tr>
+<tr><td><b>Computer Vision</b></td><td>🟦🟦🟦🟦🟦🟦🟦🟦🟪🟪 75%</td></tr>
+<tr><td><b>Django / Flask</b></td><td>🟦🟦🟦🟦🟦🟦🟦🟪🟪🟪 70%</td></tr>
+<tr><td><b>React.js</b></td><td>🟦🟦🟦🟦🟦🟦🟦🟪🟪🟪 65%</td></tr>
+<tr><td><b>Docker</b></td><td>🟦🟦🟦🟦🟦🟦🟪🟪🟪🟪 55%</td></tr>
+<tr><td><b>SQL / MySQL</b></td><td>🟦🟦🟦🟦🟦🟦🟦🟪🟪🟪 65%</td></tr>
+<tr><td><b>Git</b></td><td>🟦🟦🟦🟦🟦🟦🟦🟦🟪🟪 80%</td></tr>
+</table>
 
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Intermediate-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-Intermediate-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-![DSA](https://img.shields.io/badge/DSA-Intermediate-F7931E?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Advanced-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Django/Flask](https://img.shields.io/badge/Django%20%2F%20Flask-Intermediate-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-![React](https://img.shields.io/badge/React.js-Intermediate-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-Familiar-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL%20%2F%20DB-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![LLM Tooling](https://img.shields.io/badge/LLM%20Tooling-Intermediate-1C3C3C?style=for-the-badge)
-
-</div>
+> 📝 Placeholder self-estimates — adjust to what feels honest for you. These bars are plain emoji characters (🟦/🟪), not external images, so there's nothing that can fail to load.
 
 > 📝 Levels (Advanced / Intermediate / Familiar) are placeholder self-estimates — adjust to what feels honest for you.
 
