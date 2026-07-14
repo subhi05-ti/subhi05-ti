@@ -88,8 +88,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhi05-ti&theme=github_dark" />
 </div>
 
-> ⏱️ These cards pull live from your GitHub account (subhi05-ti) — they'll update automatically as you commit more. (Dropped the "productive time / commits by hour" card — that specific card from this service has known bugs and fails to load for a lot of accounts, not just yours.)
-
 <br>
 
 ## 🚀 Featured Projects
@@ -153,7 +151,6 @@ MVC-based web application connecting blood donors with recipients, managing dona
 </tr>
 </table>
 
-> 🔗 Point each SOURCE CODE badge at your actual repo URL once you've pushed these.
 
 <br>
 
@@ -175,10 +172,6 @@ MVC-based web application connecting blood donors with recipients, managing dona
 <tr><td><b>Git</b></td><td>🟦🟦🟦🟦🟦🟦🟦🟦🟪🟪 80%</td></tr>
 </table>
 
-> 📝 Placeholder self-estimates — adjust to what feels honest for you. These bars are plain emoji characters (🟦/🟪), not external images, so there's nothing that can fail to load.
-
-> 📝 Levels (Advanced / Intermediate / Familiar) are placeholder self-estimates — adjust to what feels honest for you.
-
 <br>
 
 ## 🔭 Currently Exploring
@@ -192,7 +185,6 @@ MVC-based web application connecting blood donors with recipients, managing dona
 
 ## 💡 Fun Facts
 
-- ☕ Coffee makes debugging easier
 - 🏔️ Ranked 2nd on Coding Ninjas among 500+ competitors
 - 🧩 Currently deep in disaster-response tech for a hackathon
 - 🚀 Learning something new every day
