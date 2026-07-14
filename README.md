@@ -3,8 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Subhi%20%F0%9F%91%8B&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20LLM%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/subhi-tiwari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/subhi05-ti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/u/subhi_tiwari/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://www.geeksforgeeks.org/profile/subhi3ijg"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="mailto:subhi7649@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=subhi05-ti&label=Profile%20Views&color=6c63ff&style=flat" />
 
