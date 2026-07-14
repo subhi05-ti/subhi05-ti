@@ -82,13 +82,13 @@
 <td width="50%" align="center"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhi05-ti&theme=github_dark" /></td>
 <td width="50%" align="center"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhi05-ti&theme=github_dark" /></td>
 </tr>
-<tr>
-<td width="50%" align="center"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhi05-ti&theme=github_dark" /></td>
-<td width="50%" align="center"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhi05-ti&theme=github_dark&utcOffset=5.5" /></td>
-</tr>
 </table>
 
-> ⏱️ These cards pull live from your GitHub account (subhi05-ti) — they'll update automatically as you commit more.
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhi05-ti&theme=github_dark" />
+</div>
+
+> ⏱️ These cards pull live from your GitHub account (subhi05-ti) — they'll update automatically as you commit more. (Dropped the "productive time / commits by hour" card — that specific card from this service has known bugs and fails to load for a lot of accounts, not just yours.)
 
 <br>
 
@@ -159,34 +159,26 @@ MVC-based web application connecting blood donors with recipients, managing dona
 
 ## 📈 Skill Progress
 
-<table>
-<tr>
-<td><img src="https://progress-bar.dev/85/?title=Python&width=220&color=6c63ff" /></td>
-<td><img src="https://progress-bar.dev/70/?title=C%2B%2B&width=220&color=00599c" /></td>
-</tr>
-<tr>
-<td><img src="https://progress-bar.dev/65/?title=Java&width=220&color=e76f00" /></td>
-<td><img src="https://progress-bar.dev/60/?title=C&width=220&color=5c6bc0" /></td>
-</tr>
-<tr>
-<td><img src="https://progress-bar.dev/70/?title=DSA&width=220&color=f7931e" /></td>
-<td><img src="https://progress-bar.dev/75/?title=Deep+Learning&width=220&color=ff6f00" /></td>
-</tr>
-<tr>
-<td><img src="https://progress-bar.dev/75/?title=Computer+Vision&width=220&color=5c3ee8" /></td>
-<td><img src="https://progress-bar.dev/70/?title=Django+%2F+Flask&width=220&color=44b78b" /></td>
-</tr>
-<tr>
-<td><img src="https://progress-bar.dev/65/?title=React.js&width=220&color=61dafb" /></td>
-<td><img src="https://progress-bar.dev/55/?title=Docker&width=220&color=2496ed" /></td>
-</tr>
-<tr>
-<td><img src="https://progress-bar.dev/65/?title=SQL+%2F+Databases&width=220&color=4479a1" /></td>
-<td><img src="https://progress-bar.dev/60/?title=LLM+Tooling&width=220&color=1c3c3c" /></td>
-</tr>
-</table>
+<div align="center">
 
-> 📝 These are placeholder estimates — adjust the percentages to reflect your own honest self-assessment.
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermediate-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-Intermediate-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+![DSA](https://img.shields.io/badge/DSA-Intermediate-F7931E?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Advanced-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Django/Flask](https://img.shields.io/badge/Django%20%2F%20Flask-Intermediate-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+![React](https://img.shields.io/badge/React.js-Intermediate-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-Familiar-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL%20%2F%20DB-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![LLM Tooling](https://img.shields.io/badge/LLM%20Tooling-Intermediate-1C3C3C?style=for-the-badge)
+
+</div>
+
+> 📝 Levels (Advanced / Intermediate / Familiar) are placeholder self-estimates — adjust to what feels honest for you.
 
 <br>
 
